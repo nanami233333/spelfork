@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This repository contains machine learning workflows and tools for [briefly describe your project's purpose, e.g., materials property prediction]. Below are key details for using this repository.
+This repository contains machine learning workflows and tools for pridicting the propertice of solvents for SSEs. Below are key details for using this repository.
 
 ---
 
