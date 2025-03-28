@@ -1,4 +1,4 @@
-# Solid-Polymer-Electrolytes-in-Lithium-Metal-Batteries
+# Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
